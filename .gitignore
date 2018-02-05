@@ -67,3 +67,8 @@ lib
 src/**/*.js
 test/**/*.js
 *.js.map
+
+*.log
+*.tar.gz
+*.tgz
+*.zip
