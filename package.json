@@ -1,11 +1,9 @@
 {
   "name": "@elevated/objects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "git@github.com:rmblstrp/elevated-objects.git",
   "author": "Christopher McGinnis <cmcginnis@elevatedsoftware.com>",
   "license": "MIT",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib"
   },
